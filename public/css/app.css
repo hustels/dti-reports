@@ -1,0 +1,48 @@
+body{
+	background: #f5f8fa;
+	
+}
+
+
+.responsive {
+	width: 80em;
+	overflow-x: auto;
+	white-space: nowrap;
+}
+
+#bootstrap-table{
+	
+	/**width: 150em;**/
+	min-width: 95em;
+	padding: 14px;
+	margin: 14px;
+}
+
+#date{
+	font-size: 14px;
+}
+
+.add.square.icon{
+	font-size: 20px;
+}
+ .srvmast_table{
+ 	min-width: 130em !important;
+ }
+.remove.icon{
+	color: red;
+	font-size: 28px;
+}
+.edit.icon{
+	font-size: 28px;
+}
+
+.attach.icon{
+	font-size: 28px;
+}
+.fa.fa-eye{
+	font-size: 28px;
+}
+.glyphicon.glyphicon-info-sign{
+	font-size: 28px;
+	color: #ffff99;
+}
